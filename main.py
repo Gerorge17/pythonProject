@@ -127,7 +127,7 @@ def get_data():
 def main():
     get_data()
     finish_time = time.time() - start_time
-    print(f"Затраченное на работу скрипта время:  {finish_time}")
+    print(f"Затраченное на работу скрипта времечко:  {finish_time}")
 
 if __name__ == '__main__':
     main()
